@@ -4,6 +4,7 @@ export interface IScrollProps {
     id: string;
     x: number;
     y: number;
+    duration: number;
 }
 
 interface Props {
